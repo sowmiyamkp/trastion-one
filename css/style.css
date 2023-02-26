@@ -1,0 +1,30 @@
+
+.container
+{
+	width:90%;
+	margin:0 auto;
+	padding-top:300px;
+}
+h3{
+	background-color:#ffffff;
+	color:##d1d6cb;
+	border:1px solid black;
+	width:85px;
+	text-align:center;
+	margin:auto;
+	
+	
+ }
+ body
+ {
+	 background-color:#f6faf2;
+ }
+ 
+ h3:hover
+ {
+	 
+	 color:#ffffff;
+	 background-color:#000000;
+	 margin:auto;
+	 transform: scaleY(1.5);
+ }
